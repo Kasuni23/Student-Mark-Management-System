@@ -39,5 +39,5 @@ To run this program, you need to have Java Development Kit (JDK) installed on yo
 7.details: Print the details of a specific student.<br/>
 8.ranks: Print the student ranks based on average marks.<br/>
 9.bestprogramming: Find the student with the highest marks in Programming Fundamentals.<br/>
-10bestdbms: Find the student with the highest marks in Database Management System.<br/>
+10.bestdbms: Find the student with the highest marks in Database Management System.<br/>
 11.exit: Exit the program.<br/>

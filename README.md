@@ -1,4 +1,4 @@
-# Student-Mark-Management-System using Java
+# Student Marks Management System
 
 This is a Java-based student marks management system that uses arrays for data storage and manipulation. It allows you to manage student records, enter marks, update student details, calculate averages, and perform various other operations. The system does not use linked lists and relies solely on arrays for data management.
 

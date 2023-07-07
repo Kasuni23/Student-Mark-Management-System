@@ -24,21 +24,20 @@ To run this program, you need to have Java Development Kit (JDK) installed on yo
 1.Clone this repository or download the source code files.<br/>
 2.Open the terminal or command prompt and navigate to the project directory.<br/>
 3.Compile the Java files using the following command:<br/>
-
-### javac Main.java
+ javac Main.java
 4.Run the program using the following command:<br/>
-### java Main
+ java Main
 
 # Usage
 
-add: Add a new student to the system.<br/>
-addmarks: Add a new student with marks to the system.<br/>
-marks: Enter marks for a specific student and subject.<br/>
-update: Update the details of a specific student.<br/>
-updatemarks: Update the marks of a specific student and subject.<br/>
-delete: Delete a student from the system.<br/>
-details: Print the details of a specific student.<br/>
-ranks: Print the student ranks based on average marks.<br/>
-bestprogramming: Find the student with the highest marks in Programming Fundamentals.<br/>
-bestdbms: Find the student with the highest marks in Database Management System.<br/>
-exit: Exit the program.<br/>
+1.add: Add a new student to the system.<br/>
+2.addmarks: Add a new student with marks to the system.<br/>
+3.marks: Enter marks for a specific student and subject.<br/>
+4.update: Update the details of a specific student.<br/>
+5.updatemarks: Update the marks of a specific student and subject.<br/>
+6.delete: Delete a student from the system.<br/>
+7.details: Print the details of a specific student.<br/>
+8.ranks: Print the student ranks based on average marks.<br/>
+9.bestprogramming: Find the student with the highest marks in Programming Fundamentals.<br/>
+10bestdbms: Find the student with the highest marks in Database Management System.<br/>
+11.exit: Exit the program.<br/>
